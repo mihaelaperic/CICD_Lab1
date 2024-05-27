@@ -1,1 +1,2 @@
-# CICD_Lab1
+# CI/CD Lab
+
